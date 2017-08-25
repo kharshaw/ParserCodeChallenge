@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}/src/CodeChallengeConsole/bin/Debug/netcoreapp1.0/CodeChallengeConsole.dll",
+            "program": "${workspaceRoot}/src/CodeChallengeConsole/bin/Debug/netcoreapp2.0/CodeChallengeConsole.dll",
             "args": [],
             "cwd": "${workspaceRoot}/src/CodeChallengeConsole",
             "stopAtEntry": false,
